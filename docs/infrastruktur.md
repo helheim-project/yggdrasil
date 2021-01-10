@@ -17,7 +17,7 @@
 - influxdb
 - node-exporter
 
-## Steuerung der Steckdosenleiste
+## Bifroest (IP Power Strip)
 - ``http://bifroest/sw?u=Heimdall&p=pwd``
 - ``http://bifroest/sw?u=Hofund&p=pwd&o=1&f=on``
 - ``http://bifroest/sw?u=Gungnir&p=pwd&o=2&f=on``
