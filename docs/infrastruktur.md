@@ -13,6 +13,7 @@
 ## Nidavellir
 - node-exporter
 - docker
+  - Waffenschmiede (Jenkins)
 ## Svartalfheim
 - influxdb
 - node-exporter
