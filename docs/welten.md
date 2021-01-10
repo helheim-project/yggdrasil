@@ -19,3 +19,16 @@
     - Helheim (etwa das Verborgene): Totenreich.
         - Unterwelt der Asen zum Fluss Äsir.
         - Hrimthusen (einstmals Ginnungagap).
+
+
+## Notizen von Marvel
+Asgard: Heimat des Göttergeschlechts der Asen
+Vanaheim: Heimat des Göttergeschlechts der Vanir, Schwesterrasse der Asen
+Alfheim: Heimat der Lichtelfen
+Midgard: Heimat der Menschen und Inhumans
+Jotunheim: Heimat der Frostriesen
+Muspelheim: Heimat der Feuerdämonen
+Svartalfheim: Heimat der Dunkelelfen
+Nidavellir: Heimat der Zwerge, den Erschaffern von Mjolnir, Gungnir, Hofund und Sturmbrecher
+Niflheim: Schwarzelfen
+Hel: Totenreich
